@@ -1,0 +1,27 @@
+2024/10/21-01:56:15.652 1868 Reusing MANIFEST C:\Users\Abc\Documents\NOVENO\SOA\Registro_SOA\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-018941
+2024/10/21-01:56:15.654 1868 Recovering log #22836
+2024/10/21-01:56:15.659 1868 Reusing old log C:\Users\Abc\Documents\NOVENO\SOA\Registro_SOA\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/022836.log 
+2024/10/21-01:56:17.506 240c Level-0 table #22843: started
+2024/10/21-01:56:17.514 240c Level-0 table #22843: 48597 bytes OK
+2024/10/21-01:56:17.515 240c Delete type=0 #22836
+2024/10/21-01:56:17.516 240c Manual compaction at level-0 from ' \xe5\x03\x00\x00\x00' @ 72057594037927935 : 1 .. ' \xe6\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/10/21-01:56:17.518 5198 Level-0 table #22845: started
+2024/10/21-01:56:17.524 5198 Level-0 table #22845: 458 bytes OK
+2024/10/21-01:56:17.525 5198 Delete type=0 #22842
+2024/10/21-01:56:17.526 5198 Manual compaction at level-0 from ' \xe6\x03\x00\x00\x00' @ 72057594037927935 : 1 .. ' \xe7\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/10/21-01:56:17.526 240c Manual compaction at level-1 from ' \xe6\x03\x00\x00\x00' @ 72057594037927935 : 1 .. ' \xe7\x03\x00\x00\x00' @ 0 : 0; will stop at ' \xe6\x03\x00\x00\x05' @ 44480503 : 0
+2024/10/21-01:56:17.526 240c Compacting 1@1 + 1@2 files
+2024/10/21-01:56:17.531 240c Generated table #22846@1: 1047 keys, 22672 bytes
+2024/10/21-01:56:17.531 240c Compacted 1@1 + 1@2 files => 22672 bytes
+2024/10/21-01:56:17.531 240c compacted to: files[ 0 0 1 2 0 0 0 ]
+2024/10/21-01:56:17.531 240c Delete type=2 #22845
+2024/10/21-01:56:17.532 240c Manual compaction at level-1 from ' \xe6\x03\x00\x00\x05' @ 44480503 : 0 .. ' \xe7\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/10/21-01:56:19.409 39ac Compacting 1@2 + 2@3 files
+2024/10/21-01:56:19.564 39ac Generated table #22847@2: 51006 keys, 2212752 bytes
+2024/10/21-01:56:19.613 39ac Generated table #22848@2: 20507 keys, 1133515 bytes
+2024/10/21-01:56:19.613 39ac Compacted 1@2 + 2@3 files => 3346267 bytes
+2024/10/21-01:56:19.614 39ac compacted to: files[ 0 0 0 2 0 0 0 ]
+2024/10/21-01:56:19.615 39ac Delete type=2 #22839
+2024/10/21-01:56:19.615 39ac Delete type=2 #22840
+2024/10/21-01:56:19.615 39ac Delete type=2 #22843
+2024/10/21-01:56:19.615 39ac Delete type=2 #22846
